@@ -1,0 +1,74 @@
+<style>
+html{
+  background-color:black;
+  scroll-behavior: smooth;
+
+}
+.navbar{
+  background-color:#5a544f;
+  font-size:20px;
+}
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+  color:white;
+  background-color:#5a544f;
+
+}
+.nav-link{
+  font-family: 'Bebas Neue', cursive;
+}
+
+
+.title-screen{
+  background-image: url("https://images.unsplash.com/photo-1506361201900-f4bc8d2e8c2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+   display: flex;
+  background-position:center center;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 600px;
+  font-size:25px;
+  text-align:center;
+  font-family: 'Bebas Neue', cursive;
+  color:white;
+}
+.about-us{
+  color:white;
+  width: 100%;
+  height: 600px;
+  background-image:url("https://images.unsplash.com/photo-1508766917616-d22f3f1eea14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+  background-position:center;
+    background-size: cover;
+border-style: solid;
+  border-width: medium;
+  border-color:black;
+  
+}
+.contact{
+  width: 100%;
+  height: 300px;
+  text-align:center;
+}
+
+
+
+.bg-text {
+  
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  
+  padding: 20px;
+  text-align: center;
+}
+.background-img{
+  
+}
+
+</style>
